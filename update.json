@@ -1,8 +1,8 @@
 {
   "latest_number": 1,
-  "latest": "1.0",
+  "latest": "1.0.0",
   "latest_date": "15.10.2022",
   "unsupported_number": 1,
-  "unsupported_version": "1.0",
+  "unsupported_version": "1.0.0",
   "latest_description": "Релиз MonserTools!"
 }
