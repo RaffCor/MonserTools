@@ -1,8 +1,8 @@
 {
-  "latest_number": 2,
-  "latest": "1.0.1",
-  "latest_date": "16.10.2022",
-  "unsupported_number": 1,
-  "unsupported_version": "1.0.0",
-  "latest_description": "Следующие функции перенесены в бесплатную версию:\n* Автологин\n* Линия прицеливания"
+  "latest_number": 3,
+  "latest": "1.0.2",
+  "latest_date": "19.10.2022",
+  "unsupported_number": 3,
+  "unsupported_version": "1.0.2",
+  "latest_description": "* Новаря регистрация/авторизация\n* Добавлено отдаление камеры на колесико мышки (для Premium версии)\n* Clickwarp перенесен в бесплатную версию"
 }
