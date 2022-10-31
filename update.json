@@ -1,8 +1,8 @@
 {
-  "latest_number": 3,
-  "latest": "1.0.2",
-  "latest_date": "19.10.2022",
-  "unsupported_number": 3,
-  "unsupported_version": "1.0.2",
-  "latest_description": "* Новаря регистрация/авторизация\n* Добавлено отдаление камеры на колесико мышки (для Premium версии)\n* Clickwarp перенесен в бесплатную версию"
+  "latest_number": 4,
+  "latest": "1.0.3",
+  "latest_date": "31.10.2022",
+  "unsupported_number": 4,
+  "unsupported_version": "1.0.3",
+  "latest_description": "* Новый дизайн личного кабинета\n* Добавлена система мероприятий\n* Для старших администраторов добавлена возможность кидать /call с игры\n* Добавлена возможность менять цвет действий администрации"
 }
