@@ -1,8 +1,8 @@
 {
-  "latest_number": 6,
-  "latest": "1.0.5",
-  "latest_date": "06.11.2022",
-  "unsupported_number": 6,
-  "unsupported_version": "1.0.5",
-  "latest_description": "* В настройках добавлена кнопка для вкл/выкл автоматического закрытия таблички проверки активности"
+  "latest_number": 7,
+  "latest": "1.0.6",
+  "latest_date": "07.11.2022",
+  "unsupported_number": 7,
+  "unsupported_version": "1.0.6",
+  "latest_description": "* Исправлено закрытие таблички проверки на активность"
 }
