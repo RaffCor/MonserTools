@@ -1,8 +1,8 @@
 {
-  "latest_number": 7,
-  "latest": "1.0.6",
+  "latest_number": 8,
+  "latest": "1.0.7",
   "latest_date": "07.11.2022",
-  "unsupported_number": 7,
-  "unsupported_version": "1.0.6",
-  "latest_description": "* Исправлено закрытие таблички проверки на активность"
+  "unsupported_number": 8,
+  "unsupported_version": "1.0.7",
+  "latest_description": "* Небольшие исправления в функционале"
 }
