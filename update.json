@@ -1,8 +1,8 @@
 {
-  "latest_number": 9,
-  "latest": "1.0.8",
-  "latest_date": "08.11.2022",
-  "unsupported_number": 9,
-  "unsupported_version": "1.0.8",
+  "latest_number": 10,
+  "latest": "1.0.9",
+  "latest_date": "11.11.2022",
+  "unsupported_number": 10,
+  "unsupported_version": "1.0.9",
   "latest_description": "* Исправлен ответ при взятии жалобы"
 }
