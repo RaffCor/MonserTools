@@ -4,5 +4,5 @@
   "latest_date": "26.02.2023",
   "unsupported_number": 11,
   "unsupported_version": "1.0.9",
-  "latest_description": "* Исправлен SRINT на SPRINT\n* Добавлено отображение FPS в замененной правой панели рекона\n* Добавлена возможно использовать id в командах /infmute и /infjail"
+  "latest_description": "* Исправлен SRINT на SPRINT\n* Добавлено отображение FPS в замененной правой панели рекона\n* Добавлена возможность использовать id в командах /infmute и /infjail"
 }
