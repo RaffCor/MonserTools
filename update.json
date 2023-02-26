@@ -1,8 +1,8 @@
 {
-  "latest_number": 12,
-  "latest": "1.1.1",
-  "latest_date": "13.01.2023",
+  "latest_number": 13,
+  "latest": "1.1.2",
+  "latest_date": "26.02.2023",
   "unsupported_number": 11,
   "unsupported_version": "1.0.9",
-  "latest_description": "* Фикс черного админ-чата"
+  "latest_description": "* Фикс замененных панелей рекона"
 }
