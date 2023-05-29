@@ -1,8 +1,8 @@
 {
-  "latest_number": 17,
-  "latest": "1.1.7",
-  "latest_date": "10.05.2023",
+  "latest_number": 18,
+  "latest": "1.1.8",
+  "latest_date": "29.05.2023",
   "unsupported_number": 15,
   "unsupported_version": "1.1.5",
-  "latest_description": "Исправлено снятие наказаний через команду /requests"
+  "latest_description": "Исправление /requests\nИсправлены команды выдачи наказаний в модифицированном /repinf"
 }
