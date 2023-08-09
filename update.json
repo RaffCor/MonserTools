@@ -1,8 +1,8 @@
 {
-  "latest_number": 19,
-  "latest": "1.1.9",
-  "latest_date": "07.06.2023",
-  "unsupported_number": 15,
-  "unsupported_version": "1.1.5",
-  "latest_description": "Возможно исправлено отображение панелей рекона\nИсправлена команда /forum"
+  "latest_number": 20,
+  "latest": "1.1.10",
+  "latest_date": "09.08.2023",
+  "unsupported_number": 20,
+  "unsupported_version": "1.1.10",
+  "latest_description": "Временно убраны автоответы при взятии репорта\nИсправлены некоторые баги"
 }
