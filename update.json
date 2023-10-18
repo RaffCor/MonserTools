@@ -1,8 +1,8 @@
 {
-  "latest_number": 20,
-  "latest": "1.1.10",
-  "latest_date": "09.08.2023",
-  "unsupported_number": 20,
-  "unsupported_version": "1.1.10",
-  "latest_description": "Временно убраны автоответы при взятии репорта\nИсправлены некоторые баги"
+  "latest_number": 21,
+  "latest": "1.1.11",
+  "latest_date": "18.10.2023",
+  "unsupported_number": 21,
+  "unsupported_version": "1.1.11",
+  "latest_description": "Перенос на другой домен"
 }
