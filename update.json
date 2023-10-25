@@ -1,8 +1,8 @@
 {
-  "latest_number": 25,
-  "latest": "1.1.14",
-  "latest_date": "23.10.2023",
-  "unsupported_number": 24,
-  "unsupported_version": "1.1.13",
-  "latest_description": "Фикс багов"
+  "latest_number": 26,
+  "latest": "1.1.15",
+  "latest_date": "25.10.2023",
+  "unsupported_number": 26,
+  "unsupported_version": "1.1.15",
+  "latest_description": "Фикс лицензии"
 }
